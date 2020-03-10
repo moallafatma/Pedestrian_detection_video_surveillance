@@ -16,5 +16,9 @@ By running the main file ("fatma_moalla.py"), the algorithm will:
 ### How to run:
 
 ````
+pip3 install -r requirements.txt
+````
+
+````
 python fatma_moalla.py 
 ````
