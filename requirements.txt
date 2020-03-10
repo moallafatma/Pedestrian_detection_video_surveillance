@@ -1,0 +1,9 @@
+tqdm
+opencv-python
+sklearn
+imutils 
+numpy 
+
+
+
+
